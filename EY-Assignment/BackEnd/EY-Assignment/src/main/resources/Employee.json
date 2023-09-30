@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Rajesh Kumar",
+    "address": "Mumbai"
+  },
+  {
+    "id": 2,
+    "name": "Priya Sharma",
+    "address": "Bangalore"
+  },
+  {
+    "id": 3,
+    "name": "Amit Patel",
+    "address": "Chennai"
+  },
+  {
+    "id": 4,
+    "name": "Pooja Gupta",
+    "address": "Delhi"
+  },
+  {
+    "id": 5,
+    "name": "Sandeep Singh",
+    "address": "Hyderabad"
+  },
+  {
+    "id": 6,
+    "name": "Anjali Gupta",
+    "address": "Kolkata"
+  },
+  {
+    "id": 7,
+    "name": "Suresh Mehta",
+    "address": "Pune"
+  },
+  {
+    "id": 8,
+    "name": "Neha Joshi",
+    "address": "Ahmedabad"
+  },
+  {
+    "id": 9,
+    "name": "Rakesh Sharma",
+    "address": "Jaipur"
+  },
+  {
+    "id": 10,
+    "name": "Kavita Mishra",
+    "address": "Lucknow"
+  },
+  {
+    "id": 11,
+    "name": "Sanjay Verma",
+    "address": "Bhopal"
+  },
+  {
+    "id": 12,
+    "name": "Ritu Choudhary",
+    "address": "Chandigarh"
+  },
+  {
+    "id": 13,
+    "name": "Kiran Nair",
+    "address": "Kochi"
+  },
+  {
+    "id": 14,
+    "name": "Ajay Dixit",
+    "address": "Nagpur"
+  },
+  {
+    "id": 15,
+    "name": "Smita Shah",
+    "address": "Vadodara"
+  },
+  {
+    "id": 16,
+    "name": "Vikas Singh",
+    "address": "Indore"
+  },
+  {
+    "id": 17,
+    "name": "Shweta Reddy",
+    "address": "Coimbatore"
+  },
+  {
+    "id": 18,
+    "name": "Rahul Kapoor",
+    "address": "Ludhiana"
+  },
+  {
+    "id": 19,
+    "name": "Anita Malhotra",
+    "address": "Amritsar"
+  },
+  {
+    "id": 20,
+    "name": "Rajendra Prasad",
+    "address": "Visakhapatnam"
+  }
+]
